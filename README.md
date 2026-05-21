@@ -1,37 +1,31 @@
-<div align="center">
-
-```yaml
-# whoami
-name:       "Diogo S. Florêncio"
-location:   "Brasil 🇧🇷"
-pronouns:   "he/him"
-status:     "building things that matter"
 ```
+/diogo
 
-```yaml
-# work
-mobile:     [ "React Native", "Expo" ]
-web:        [ "Next.js", "React" ]
-backend:    [ "Spring Boot", "Node.js" ]
-languages:  [ "TypeScript", "JavaScript", "Java" ]
-paradigms:  [ "OOP", "REST", "component-driven" ]
+├── about
+│   └── constantly learning technologies and building the best i can because i genuinely enjoy it
+│
+├── stack
+│   ├── mobile      → react native
+│   ├── web         → next.js
+│   ├── backend     → node.js / spring boot
+│   └── languages   → i like learning all kinds of languages,
+│                     especially java, javascript, c, c# and c++
+│
+├── interests
+│   ├── servers
+│   ├── software architecture
+│   ├── automation
+│   ├── embedded software
+│   └── cybersecurity
+│
+├── current
+│   └── focused on web saas applications and cybersecurity
+│
+├── links
+│   ├── /portfolio  → https://diogosflorencio.dev
+│   ├── /identity   → https://diogo.id
+│   └── /resume     → https://diogo.id/cv
+│
+└── motto
+    └── "stay hungry, stay foolish"
 ```
-
-```yaml
-# human
-interests:  [ "mobile", "web", "backend", "languages" ]
-learning:   "always"
-open_to:    [ "new stacks", "good problems", "coffee chats" ]
-motto:      "Stay hungry, stay foolish."
-```
-
-```yaml
-# find me
-personal:   "https://diogo.id"
-work:       "https://diogosflorencio.dev"
-instagram:  "@diogo.id"
-youtube:    "@diogosflorencio"
-linkedin:   "diogosflorencio"
-```
-
-</div>
