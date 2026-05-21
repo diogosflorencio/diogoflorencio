@@ -22,7 +22,7 @@
 │   └── focused on web saas applications and cybersecurity
 │
 ├── links
-│   ├── /portfolio  → https://diogosflorencio.dev
+│   ├── /portfolio  → [diogosflorencio.dev](https://diogosflorencio.dev)
 │   ├── /identity   → https://diogo.id
 │   └── /resume     → https://diogo.id/cv
 │
